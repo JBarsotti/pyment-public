@@ -1,2 +1,3 @@
 from .maximize_feature_activation import maximize_feature_activation
 from .volume_viewer import VolumeViewer
+from .feature_importance import input_gradients, integrated_gradients, saliency_map
